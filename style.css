@@ -1,0 +1,33 @@
+/*-------------------------- common-style-------------- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/*------------------- nav-style---------------- */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+.special{
+    padding: 5px;
+    font-size: 20px;
+}
+/* ------------------------------------------prebook-style------------------------- */
+.prebook{
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+.new-title{
+font-weight: 1500;
+font-size: 52px;
+color: #3A3A3A;
+}
+button{
+    background-color: blueviolet;
+}
